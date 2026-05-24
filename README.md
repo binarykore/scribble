@@ -1,2 +1,2 @@
 # The Scribble Program -
-* The I / O (Input / Output) of Note Taking App..
+* The I / O (Input / Output) of Note Taking Apps..
